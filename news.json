@@ -1,1 +1,474 @@
-{"date_line":"THURSDAY, 19 NOVEMBER 2026","footer":"Sources: Reuters, UN News, BBC, CNN, Dow Jones. 19 Nov 2026.","lead":{"body":"The three leaders met in Shenzhen, issued a joint peace declaration, denounced nuclear war and pledged more talks on nuclear risks and energy security.","color":[46,109,164],"headline":"Trump, Xi and Putin meet in first three-way summit","icon":"flags","source":"Dow Jones / BBC","tag":"SHENZHEN - DIPLOMACY"},"stories":[{"body":"The UN's top court ruled Myanmar committed genocide against the Rohingya, a first verdict against a state.","color":[125,60,152],"headline":"UN court: Myanmar guilty of genocide","icon":"courthouse","source":"UN News","tag":"THE HAGUE - JUSTICE"},{"body":"An overnight strike hit the bridge's railway section, halting trains between Russia and Crimea.","color":[183,149,11],"headline":"Crimean Bridge hit for third time","icon":"bridge","source":"Reuters / CNN","tag":"UKRAINE - WAR"},{"body":"Anthropic jumped 17% in its Nasdaq debut, but the S&P 500 still fell 2.0% for a fifth straight loss.","color":[192,57,43],"headline":"Stocks slide despite Anthropic IPO","icon":"chart","source":"Dow Jones","tag":"USA - MARKETS"},{"body":"Violence hit 28 districts as the Awami League's lockdown shut Bangladesh; Yunus's home was torched.","color":[211,84,0],"headline":"Yunus home torched in Bangladesh unrest","icon":"flame","source":"Reuters","tag":"BANGLADESH - UNREST"}],"sublines":["Six stories from Thursday, 19 November 2026.","Each one happened or was first reported that day."],"title":"WORLD NEWS","wide":{"body":"Thursday's slimmed draft deal removed all references to ending fossil fuel use. Talks run to Friday.","color":[30,132,73],"headline":"COP31 draft drops fossil fuel mentions","icon":"leaf","source":"Reuters / UN News","tag":"ANTALYA - CLIMATE"}}
+{
+  "date": "2026-11-20",
+  "title": "FRIDAY 20 NOVEMBER 2026",
+  "stories_total": 46,
+  "regions": 6,
+  "timeline": [
+    [
+      "OVERNIGHT",
+      [
+        "KYIV HIT,",
+        "8 KILLED",
+        "POLAND HIT"
+      ]
+    ],
+    [
+      "~02:30 UTC",
+      [
+        "CYCLONE AKVAN",
+        "HITS INDIA;",
+        "300,000 MOVED"
+      ]
+    ],
+    [
+      "~06:00 UTC",
+      [
+        "ASIAN MARKETS",
+        "PLUNGE: NIKKEI",
+        "-5.1%"
+      ]
+    ],
+    [
+      "~10:00 UTC",
+      [
+        "EU-UK SUMMIT",
+        "OPENS IN",
+        "BRUSSELS"
+      ]
+    ],
+    [
+      "AFTERNOON",
+      [
+        "COP31 DRAFT",
+        "DROPS FOSSIL",
+        "FUELS; NO DEAL"
+      ]
+    ],
+    [
+      "~20:00 UTC",
+      [
+        "TRUMP NEWS",
+        "CONFERENCE;",
+        "WALL ST. DOWN"
+      ]
+    ]
+  ],
+  "headlines": [
+    {
+      "region": "EUROPE",
+      "topic": "UKRAINE WAR",
+      "status": "CONFIRMED - AP",
+      "icon": "rocket",
+      "title": [
+        "RUSSIAN MISSILES HIT",
+        "KYIV, LAND IN POLAND"
+      ],
+      "summary": [
+        "8 KILLED IN KYIV; POLAND",
+        "SAYS 2 MISSILES, 1 DRONE."
+      ]
+    },
+    {
+      "region": "AMERICAS",
+      "topic": "MARKETS",
+      "status": "CONFIRMED - INVESTOPEDIA",
+      "icon": "chart",
+      "title": [
+        "WALL STREET ROUT:",
+        "NASDAQ SINKS 5.2%"
+      ],
+      "summary": [
+        "S&P -3.7%, 7TH STRAIGHT",
+        "LOSS; WORST WEEK SINCE APR 2025."
+      ]
+    },
+    {
+      "region": "AMERICAS",
+      "topic": "POLITICS",
+      "status": "CONFIRMED - CNN",
+      "icon": "podium",
+      "title": [
+        "TRUMP PRAISES PUTIN",
+        "AT 90-MIN BRIEFING"
+      ],
+      "summary": [
+        "FLOATS MILLER FOR PRESIDENT;",
+        "VOWS TAX ON DATA CENTERS."
+      ]
+    },
+    {
+      "region": "EUROPE",
+      "topic": "DIPLOMACY",
+      "status": "CONFIRMED - AP",
+      "icon": "rings",
+      "title": [
+        "EU AND UK STRIKE",
+        "TRADE, TRAVEL DEAL"
+      ],
+      "summary": [
+        "SUMMIT EASES FOOD TRADE,",
+        "EXPANDS YOUTH MOBILITY."
+      ]
+    }
+  ],
+  "secondary": [
+    {
+      "region": "EUROPE",
+      "topic": "CLIMATE",
+      "status": "CONFIRMED - AP",
+      "title": [
+        "COP31 DRAFT DROPS",
+        "FOSSIL FUEL EXIT"
+      ],
+      "summary": [
+        "TALKS MISS FRIDAY",
+        "DEADLINE, OVERTIME"
+      ]
+    },
+    {
+      "region": "EUROPE",
+      "topic": "UKRAINE",
+      "status": "CLAIM - WSJ",
+      "title": [
+        "KUSHNER: RUSSIA",
+        "OPEN TO NATO DEAL"
+      ],
+      "summary": [
+        "KYIV NEEDS $115BN",
+        "IN 2027, KYIV SAYS"
+      ]
+    },
+    {
+      "region": "MIDEAST",
+      "topic": "GAZA",
+      "status": "CONFIRMED - AP",
+      "title": [
+        "ISRAELI TROOPS",
+        "CROSS YELLOW LINE"
+      ],
+      "summary": [
+        "FIRST SINCE TRUCE",
+        "AP REPORTS"
+      ]
+    },
+    {
+      "region": "MIDEAST",
+      "topic": "YEMEN",
+      "status": "CONFIRMED - COALITION",
+      "title": [
+        "SAUDI COALITION",
+        "HITS HOUTHI SITES"
+      ],
+      "summary": [
+        "6 MISSILE AND DRONE",
+        "SITES DESTROYED"
+      ]
+    },
+    {
+      "region": "MIDEAST",
+      "topic": "IRAQ",
+      "status": "CONFIRMED - AP",
+      "title": [
+        "IRAQ MOVES ON",
+        "MILITIA BASE"
+      ],
+      "summary": [
+        "FORCES DEPLOY IN",
+        "JURF AL-SAKHAR"
+      ]
+    },
+    {
+      "region": "EUROPE",
+      "topic": "SECURITY",
+      "status": "CONFIRMED - AP",
+      "title": [
+        "ESTONIA SHUTS",
+        "RUSSIA BORDER"
+      ],
+      "summary": [
+        "SHUT FOR 6 MONTHS",
+        "KREMLIN PROTESTS"
+      ]
+    },
+    {
+      "region": "EUROPE",
+      "topic": "SECURITY",
+      "status": "CONFIRMED - AP",
+      "title": [
+        "DENMARK BACKS",
+        "GREENLAND-US PACT"
+      ],
+      "summary": [
+        "PARLIAMENT APPROVES",
+        "SECURITY AGREEMENT"
+      ]
+    },
+    {
+      "region": "ASIA",
+      "topic": "WEATHER",
+      "status": "CONFIRMED - IMD",
+      "title": [
+        "CYCLONE AKVAN",
+        "HITS EAST INDIA"
+      ],
+      "summary": [
+        "300,000 EVACUATED;",
+        "NO DEATHS REPORTED"
+      ]
+    },
+    {
+      "region": "AMERICAS",
+      "topic": "HAITI",
+      "status": "CLAIM - POLICE",
+      "title": [
+        "HAITI POLICE KILL",
+        "34 GANG SUSPECTS"
+      ],
+      "summary": [
+        "RAID IN MARTISSANT;",
+        "2 SOLDIERS ALSO DIE"
+      ]
+    },
+    {
+      "region": "AMERICAS",
+      "topic": "CYBER",
+      "status": "CONFIRMED - AP",
+      "title": [
+        "BANKS CONFIRM",
+        "VENDOR BREACH"
+      ],
+      "summary": [
+        "RANSOM GROUP N0N",
+        "POSTS CUSTOMER DATA"
+      ]
+    },
+    {
+      "region": "AMERICAS",
+      "topic": "CYBER",
+      "status": "CONFIRMED - THE HILL",
+      "title": [
+        "WHITE HOUSE",
+        "CYBER CHIEF OUT"
+      ],
+      "summary": [
+        "DAVIES NAMED ACTING",
+        "HEAD AFTER OUTAGES"
+      ]
+    },
+    {
+      "region": "AMERICAS",
+      "topic": "BUSINESS",
+      "status": "CONFIRMED - AP",
+      "title": [
+        "INTUIT SELLS",
+        "MAILCHIMP AT LOSS"
+      ],
+      "summary": [
+        "$3.68BN, A THIRD OF",
+        "WHAT IT PAID"
+      ]
+    }
+  ],
+  "list": [
+    {
+      "n": 17,
+      "region": "AFRICA",
+      "line1": "SENEGAL: BOAT",
+      "line2": "SINKS, DOZENS MISSING"
+    },
+    {
+      "n": 18,
+      "region": "AFRICA",
+      "line1": "SUDAN: DRONE STRIKE",
+      "line2": "KILLS 10 AT GOLD MINE"
+    },
+    {
+      "n": 19,
+      "region": "AMERICAS",
+      "line1": "VENEZUELA: US INK",
+      "line2": "MILITARY PACT"
+    },
+    {
+      "n": 20,
+      "region": "AMERICAS",
+      "line1": "EL SALVADOR: BUKELE",
+      "line2": "SEEKS THIRD TERM"
+    },
+    {
+      "n": 21,
+      "region": "AMERICAS",
+      "line1": "BOGOTA: THOUSANDS",
+      "line2": "PROTEST TAX REFORMS"
+    },
+    {
+      "n": 22,
+      "region": "MIDEAST",
+      "line1": "ISRAEL: MOSQUE SET",
+      "line2": "ON FIRE IN THE NORTH"
+    },
+    {
+      "n": 23,
+      "region": "ASIA",
+      "line1": "DHAKA: VIOLENCE AS",
+      "line2": "HASINA PLANS RETURN"
+    },
+    {
+      "n": 24,
+      "region": "EUROPE",
+      "line1": "POLAND: TROOPS FROM",
+      "line2": "11 NATIONS DRILL"
+    },
+    {
+      "n": 25,
+      "region": "EUROPE",
+      "line1": "UK: FAIRFORD SUSPECTS",
+      "line2": "TRIAL IN NOV 2027"
+    },
+    {
+      "n": 26,
+      "region": "EUROPE",
+      "line1": "BERLIN: MERZ REJECTS",
+      "line2": "'NEW YALTA' ON EUROPE"
+    },
+    {
+      "n": 27,
+      "region": "ASIA",
+      "line1": "TOKYO: JAPAN, INDIA",
+      "line2": "DEEPEN DEFENCE TIES"
+    },
+    {
+      "n": 28,
+      "region": "AMERICAS",
+      "line1": "US: JUDGE APPROVES",
+      "line2": "$7.25BN ROUNDUP DEAL"
+    },
+    {
+      "n": 29,
+      "region": "AMERICAS",
+      "line1": "US: SENATE CONFIRMS",
+      "line2": "TRUMP JUDGES"
+    },
+    {
+      "n": 30,
+      "region": "AMERICAS",
+      "line1": "US: TRUMP AGAIN URGES",
+      "line2": "FED TO CUT RATES"
+    },
+    {
+      "n": 31,
+      "region": "AMERICAS",
+      "line1": "BRAZIL: BANK SELLS",
+      "line2": "$1BN TO CURB DOLLAR"
+    },
+    {
+      "n": 32,
+      "region": "AMERICAS",
+      "line1": "US: BIPARTISAN PUSH",
+      "line2": "TO CAP INSULIN PRICES"
+    },
+    {
+      "n": 33,
+      "region": "AMERICAS",
+      "line1": "VIRGINIA QUITS",
+      "line2": "TRUMP SCHOOL PLAN"
+    },
+    {
+      "n": 34,
+      "region": "AMERICAS",
+      "line1": "US: NEW CENTER TO",
+      "line2": "DISRUPT SCAM NETWORKS"
+    },
+    {
+      "n": 35,
+      "region": "AMERICAS",
+      "line1": "US: CDC REPORTS 5,838",
+      "line2": "MEASLES CASES IN 2026"
+    },
+    {
+      "n": 36,
+      "region": "AMERICAS",
+      "line1": "TECH: DEEPFAKE MUSK",
+      "line2": "VIDEOS NEAR $4.7M"
+    },
+    {
+      "n": 37,
+      "region": "ASIA",
+      "line1": "TECH: CHINA SPIES",
+      "line2": "EXPLOIT VMWARE FLAW"
+    },
+    {
+      "n": 38,
+      "region": "AMERICAS",
+      "line1": "TECH: N-ABLE BUGS",
+      "line2": "USED TO MINE CRYPTO"
+    },
+    {
+      "n": 39,
+      "region": "MIDEAST",
+      "line1": "HORMUZ: TANKER HITS",
+      "line2": "MINE, CATCHES FIRE"
+    },
+    {
+      "n": 40,
+      "region": "MIDEAST",
+      "line1": "GAZA: KIDS FACE",
+      "line2": "UNMATCHED THREATS"
+    },
+    {
+      "n": 41,
+      "region": "AMERICAS",
+      "line1": "IMF: DEBT NEARS 100%",
+      "line2": "OF WORLD GDP"
+    },
+    {
+      "n": 42,
+      "region": "AFRICA",
+      "line1": "KENYA: US GROUP WINS",
+      "line2": "MINERALS DEAL"
+    },
+    {
+      "n": 43,
+      "region": "AFRICA",
+      "line1": "TUNIS: ACTIVIST JAILED",
+      "line2": "FOR 5 YEARS"
+    },
+    {
+      "n": 44,
+      "region": "OCEANIA",
+      "line1": "FIJI, TONGA DECLARE",
+      "line2": "DROUGHT DISASTERS"
+    },
+    {
+      "n": 45,
+      "region": "AFRICA",
+      "line1": "SPORT: JEPCHIRCHIR",
+      "line2": "DOPING BAN, 3 YEARS"
+    },
+    {
+      "n": 46,
+      "region": "AMERICAS",
+      "line1": "NCAA: TUFTS, ST. OLAF",
+      "line2": "REACH SOCCER ELITE 8"
+    }
+  ],
+  "date_check": [
+    "NOT IN THIS PAPER - THEY HAPPENED ON 19 NOV: SHENZHEN 3-WAY SUMMIT;",
+    "ICJ MYANMAR RULING; ANTHROPIC IPO DEBUT +17%; HOUTHI MISSILE HITS RIYADH TOWER.",
+    "NOT YET: COP31 FINAL DEAL - TALKS STILL IN OVERTIME."
+  ],
+  "footer": [
+    "EVERY STORY HAPPENED OR WAS FIRST REPORTED ON FRIDAY 20 NOVEMBER 2026.",
+    "CLAIM = ONE SIDE'S ACCOUNT, NOT INDEPENDENTLY VERIFIED. DRAWINGS: ORIGINAL.",
+    "SOURCES: AP, REUTERS, AFP, CNN, THE HILL, INVESTOPEDIA, IMD, JUST SECURITY."
+  ],
+  "sources": [
+    "AP",
+    "Reuters",
+    "AFP",
+    "CNN",
+    "The Hill",
+    "Investopedia",
+    "IMD",
+    "Just Security"
+  ]
+}
